@@ -1,0 +1,114 @@
+# nautilus-terminal's Portuguese translation.
+# Copyright © 2007, 2009 nautilus-terminal
+# This file is distributed under the same license as the nautilus-terminal package.
+# André Neves <drakferion@gmail.com>, 2007.
+# António Lima <amrlima@gmail.com>, 2009.
+# Pedro Albuquerque <palbuquerque73@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 2.26\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=nautilus-terminal&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2013-12-19 15:52+0000\n"
+"PO-Revision-Date: 2015-11-08 08:12+0000\n"
+"Last-Translator: Pedro Albuquerque <palbuquerque73@gmail.com>\n"
+"Language-Team: Pedro Albuquerque\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 2.91.6\n"
+"X-Project-Style: gnome\n"
+
+#: ../src/nautilus-terminal.c:401
+msgid "Open in _Remote Terminal"
+msgstr "Abrir num terminal _Remoto"
+
+#: ../src/nautilus-terminal.c:403
+msgid "Open in _Local Terminal"
+msgstr "Abrir num terminal _Local"
+
+#: ../src/nautilus-terminal.c:407 ../src/nautilus-terminal.c:418
+msgid "Open the currently selected folder in a terminal"
+msgstr "Abrir a pasta atualmente selecionada num terminal"
+
+#: ../src/nautilus-terminal.c:409 ../src/nautilus-terminal.c:420
+#: ../src/nautilus-terminal.c:430
+msgid "Open the currently open folder in a terminal"
+msgstr "Abrir a pasta atualmente aberta num terminal"
+
+#: ../src/nautilus-terminal.c:415 ../src/nautilus-terminal.c:429
+msgid "Open in T_erminal"
+msgstr "Abrir num t_Erminal"
+
+#: ../src/nautilus-terminal.c:426
+msgid "Open T_erminal"
+msgstr "Abrir t_Erminal"
+
+#: ../src/nautilus-terminal.c:427
+msgid "Open a terminal"
+msgstr "Abrir um terminal"
+
+#: ../src/nautilus-terminal.c:442 ../src/nautilus-terminal.c:455
+msgid "Open in _Midnight Commander"
+msgstr "Abrir no _Midnight Commander"
+
+#: ../src/nautilus-terminal.c:444
+msgid ""
+"Open the currently selected folder in the terminal file manager Midnight "
+"Commander"
+msgstr ""
+"Abrir a pasta atualmente selecionada no gestor de ficheiros de terminal "
+"Midnight Commander"
+
+#: ../src/nautilus-terminal.c:446 ../src/nautilus-terminal.c:456
+msgid ""
+"Open the currently open folder in the terminal file manager Midnight "
+"Commander"
+msgstr ""
+"Abrir a pasta atualmente aberta no gestor de ficheiros de terminal Midnight "
+"Commander"
+
+#: ../src/nautilus-terminal.c:452
+msgid "Open _Midnight Commander"
+msgstr "Abrir _Midnight Commander"
+
+#: ../src/nautilus-terminal.c:453
+msgid "Open the terminal file manager Midnight Commander"
+msgstr "Abrir o gestor de ficheiros de terminal Midnight Commander"
+
+#: ../nautilus-terminal.schemas.in.h:1
+msgid ""
+"Whether opening a terminal on the desktop opens a terminal in the home "
+"directory"
+msgstr ""
+"Se abrir um terminal na área de trabalho abre um terminal na pasta pessoal "
+"do utilizador"
+
+#: ../nautilus-terminal.schemas.in.h:2
+msgid ""
+"If set to true, then opening a terminal on the desktop will open a terminal "
+"in the home directory. Otherwise, it will be opened in the desktop "
+"directory. Note that this key is irrelevant if the desktop directory is "
+"identical to the home directory."
+msgstr ""
+"Se definido como verdadeiro, abrir um terminal na área de trabalho abrirá "
+"uma consola na pasta pessoal do utilizador. Caso contrário, o terminal será "
+"aberto na pasta da área de trabalho. Note que esta chave é irrelevante caso "
+"a pasta da área de trabalho seja a mesma que a pasta pessoal do utilizador."
+
+#: ../nautilus-terminal.schemas.in.h:3
+msgid "Whether a Midnight Commander menu item should be displayed"
+msgstr "Se um item de menu do Midnight Commander deve ser mostrado"
+
+#: ../nautilus-terminal.schemas.in.h:4
+msgid ""
+"If set to true, and if the terminal file manager \"Midnight Commander\" is "
+"installed, then an \"Open in Midnight Commander\" menu item will be "
+"displayed in the context menu."
+msgstr ""
+"Se definido como verdadeiro e se o gestor de ficheiros de terminal "
+"\"Midnight Commander\" estiver instalado, um item de menu \"Abrir no "
+"Midnight Commander\" será mostrado no menu contextual."

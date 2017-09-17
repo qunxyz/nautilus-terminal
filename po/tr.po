@@ -1,0 +1,108 @@
+# Turkish translation of nautilus-terminal.
+# Copyright (C) 2005
+# This file is distributed under the same license as the nautilus-terminal package.
+#
+# Necdet Yücel <necdetyucel@gmail.com>, 2015.
+# Muhammet Kara <muhammetk@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus-terminal\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=nautilus-terminal&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-02-15 11:19+0000\n"
+"PO-Revision-Date: 2015-02-16 16:30+0200\n"
+"Last-Translator: Muhammet Kara <muhammetk@gmail.com>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Gtranslator 2.91.6\n"
+"X-POOTLE-MTIME: 1423998478.000000\n"
+
+#: ../src/nautilus-terminal.c:401
+msgid "Open in _Remote Terminal"
+msgstr "_Uzak Uçbirim İçinde Aç"
+
+#: ../src/nautilus-terminal.c:403
+msgid "Open in _Local Terminal"
+msgstr "_Yerel Uçbirim İçinde Aç"
+
+#: ../src/nautilus-terminal.c:407 ../src/nautilus-terminal.c:418
+msgid "Open the currently selected folder in a terminal"
+msgstr "Şeçilen klasörü bir uçbirim içinde aç"
+
+#: ../src/nautilus-terminal.c:409 ../src/nautilus-terminal.c:420
+#: ../src/nautilus-terminal.c:430
+msgid "Open the currently open folder in a terminal"
+msgstr "Açık olan klasörü bir uçbirim içinde aç"
+
+#: ../src/nautilus-terminal.c:415 ../src/nautilus-terminal.c:429
+msgid "Open in T_erminal"
+msgstr "Uçbirim İçind_e Aç"
+
+#: ../src/nautilus-terminal.c:426
+msgid "Open T_erminal"
+msgstr "Uç_birim Aç"
+
+#: ../src/nautilus-terminal.c:427
+msgid "Open a terminal"
+msgstr "Bir uçbirim aç"
+
+#: ../src/nautilus-terminal.c:442 ../src/nautilus-terminal.c:455
+msgid "Open in _Midnight Commander"
+msgstr "_Midnight Commander İçinde Aç"
+
+#: ../src/nautilus-terminal.c:444
+msgid ""
+"Open the currently selected folder in the terminal file manager Midnight "
+"Commander"
+msgstr "Seçili klasörü uçbirimde Midnight Commander ile aç"
+
+#: ../src/nautilus-terminal.c:446 ../src/nautilus-terminal.c:456
+msgid ""
+"Open the currently open folder in the terminal file manager Midnight "
+"Commander"
+msgstr "Açık olan klasörü bir uçbirim içinde Midnight Commander ile aç"
+
+#: ../src/nautilus-terminal.c:452
+msgid "Open _Midnight Commander"
+msgstr "_Midnight Commander'ı Aç"
+
+#: ../src/nautilus-terminal.c:453
+msgid "Open the terminal file manager Midnight Commander"
+msgstr "Uçbirim dosya yöneticisi Midnight Commander'ı aç"
+
+#: ../nautilus-terminal.schemas.in.h:1
+msgid ""
+"Whether opening a terminal on the desktop opens a terminal in the home "
+"directory"
+msgstr ""
+"Masaüstünde bir uç birim açıldığında ev dizininde bir uçbirim açıp açmayacağı"
+
+#: ../nautilus-terminal.schemas.in.h:2
+msgid ""
+"If set to true, then opening a terminal on the desktop will open a terminal "
+"in the home directory. Otherwise, it will be opened in the desktop "
+"directory. Note that this key is irrelevant if the desktop directory is "
+"identical to the home directory."
+msgstr ""
+"Eğer doğru olarak ayarlanırsa, masa üstünde bir uç birim açıldığında uç "
+"birim ev dizininde açılır. Aksi halde masa üstü dizininde açılır. Bunun masa "
+"üstü dizini ile ev dizininin özdeş olmasıyla ilgisi olmadığına dikkat edin."
+
+#: ../nautilus-terminal.schemas.in.h:3
+msgid "Whether a Midnight Commander menu item should be displayed"
+msgstr "Bir Midnight Commander menü ögesinin gösterilip gösterilmeyeceği"
+
+#: ../nautilus-terminal.schemas.in.h:4
+msgid ""
+"If set to true, and if the terminal file manager \"Midnight Commander\" is "
+"installed, then an \"Open in Midnight Commander\" menu item will be "
+"displayed in the context menu."
+msgstr ""
+"Eğer doğru olarak ayarlanırsa ve uç birim dosya yöneticisi \"Midnight "
+"Commander\" kurulmuşsa içerik menüsünde \"Midnight Commander İçinde Aç\" "
+"görüntülenecektir."

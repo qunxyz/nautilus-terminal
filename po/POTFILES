@@ -1,0 +1,2 @@
+	../src/nautilus-terminal.c \
+	../nautilus-terminal.schemas.in

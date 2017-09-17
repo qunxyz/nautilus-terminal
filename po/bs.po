@@ -1,0 +1,111 @@
+# Bosnian translation for bosnianuniversetranslation
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the bosnianuniversetranslation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bosnianuniversetranslation\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=nautilus-terminal&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-02-26 23:28+0000\n"
+"PO-Revision-Date: 2014-01-08 13:02+0000\n"
+"Last-Translator: Amina Kazija <akazija1@etf.unsa.ba>\n"
+"Language-Team: Bosnian <bs@li.org>\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-23 07:12+0000\n"
+"X-Generator: Launchpad (build 17203)\n"
+
+#: ../src/nautilus-terminal.c:401
+msgid "Open in _Remote Terminal"
+msgstr "Otvori u_Izdvojenoj konzoli"
+
+#: ../src/nautilus-terminal.c:403
+msgid "Open in _Local Terminal"
+msgstr "Otvori u_lokalnoj konzoli"
+
+#: ../src/nautilus-terminal.c:407 ../src/nautilus-terminal.c:418
+msgid "Open the currently selected folder in a terminal"
+msgstr "Otvori  trenutno izabrani folder u konzoli"
+
+#: ../src/nautilus-terminal.c:409 ../src/nautilus-terminal.c:420
+#: ../src/nautilus-terminal.c:430
+msgid "Open the currently open folder in a terminal"
+msgstr "Otvori  trenutno otvoreni folder u konzoli"
+
+#: ../src/nautilus-terminal.c:415 ../src/nautilus-terminal.c:429
+msgid "Open in T_erminal"
+msgstr "Otvori u K_onzoli"
+
+#: ../src/nautilus-terminal.c:426
+msgid "Open T_erminal"
+msgstr "Otvori K_onzolu"
+
+#: ../src/nautilus-terminal.c:427
+msgid "Open a terminal"
+msgstr "Otvori konzolu"
+
+#: ../src/nautilus-terminal.c:442 ../src/nautilus-terminal.c:455
+msgid "Open in _Midnight Commander"
+msgstr "Otvori u_Midnight Commanderu"
+
+#: ../src/nautilus-terminal.c:444
+msgid ""
+"Open the currently selected folder in the terminal file manager Midnight "
+"Commander"
+msgstr ""
+"Otvorite trenutno izabrani folder u Midnight Commander terminal upravitelju "
+"datoteka."
+
+#: ../src/nautilus-terminal.c:446 ../src/nautilus-terminal.c:456
+msgid ""
+"Open the currently open folder in the terminal file manager Midnight "
+"Commander"
+msgstr ""
+"Otvorite trenutno otvoreni folder u Midnight Commander terminal upravitelju "
+"datoteka."
+
+#: ../src/nautilus-terminal.c:452
+msgid "Open _Midnight Commander"
+msgstr "Otvori_Midnight Commander"
+
+#: ../src/nautilus-terminal.c:453
+msgid "Open the terminal file manager Midnight Commander"
+msgstr "Otvorite Midnight Commander terminal upravitelj datoteka."
+
+#: ../nautilus-terminal.schemas.in.h:1
+msgid ""
+"Whether opening a terminal on the desktop opens a terminal in the home "
+"directory"
+msgstr ""
+"Svako otvaranje terminala na radnoj površini otvara terminal u početnom "
+"imeniku"
+
+#: ../nautilus-terminal.schemas.in.h:2
+msgid ""
+"If set to true, then opening a terminal on the desktop will open a terminal "
+"in the home directory. Otherwise, it will be opened in the desktop "
+"directory. Note that this key is irrelevant if the desktop directory is "
+"identical to the home directory."
+msgstr ""
+"Ako je postavljeno na tačno, onda otvaranje terminala na radnoj površini će "
+"otvoriti terminal u početnom imeniku. U protivnom, biti će otvoren u u "
+"imeniku radne površine. Imajte na umu da je ovaj ključ irelevantan ako je "
+"imenik radne površine identičan početnom imeniku."
+
+#: ../nautilus-terminal.schemas.in.h:3
+msgid "Whether a Midnight Commander menu item should be displayed"
+msgstr "Bilo koja Midnight Commander stavka izbornika treba biti prikazana"
+
+#: ../nautilus-terminal.schemas.in.h:4
+msgid ""
+"If set to true, and if the terminal file manager \"Midnight Commander\" is "
+"installed, then an \"Open in Midnight Commander\" menu item will be "
+"displayed in the context menu."
+msgstr ""
+"Ako je postavljeno na tačno, i ako je terminal upravitelja datoteka "
+"\"Midnight Commander\" instaliran, onda \"Opijen in Midnight Commander\" "
+"stavka izbornika će se prikazati u kontekstu izbornika."

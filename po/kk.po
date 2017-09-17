@@ -1,0 +1,100 @@
+# Kazakh translation for nautilus-terminal.
+# Copyright (C) 2015 nautilus-terminal's COPYRIGHT HOLDER
+# This file is distributed under the same license as the nautilus-terminal package.
+# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus-terminal master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=nautilus-"
+"terminal&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-03-19 23:26+0000\n"
+"PO-Revision-Date: 2015-03-20 09:42+0500\n"
+"Language-Team: Kazakh <kk_KZ@googlegroups.com>\n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
+"X-Generator: Poedit 1.7.4\n"
+
+#: ../src/nautilus-terminal.c:401
+msgid "Open in _Remote Terminal"
+msgstr "Қ_ашықтағы терминалда ашу"
+
+#: ../src/nautilus-terminal.c:403
+msgid "Open in _Local Terminal"
+msgstr "Жергі_лікті терминалда ашу"
+
+#: ../src/nautilus-terminal.c:407 ../src/nautilus-terminal.c:418
+msgid "Open the currently selected folder in a terminal"
+msgstr "Ағымдағы уақытта таңдалған буманы терминалда ашу"
+
+#: ../src/nautilus-terminal.c:409 ../src/nautilus-terminal.c:420
+#: ../src/nautilus-terminal.c:430
+msgid "Open the currently open folder in a terminal"
+msgstr "Ағымдағы уақытта ашық буманы терминалда ашу"
+
+#: ../src/nautilus-terminal.c:415 ../src/nautilus-terminal.c:429
+msgid "Open in T_erminal"
+msgstr "Т_ерминалда ашу"
+
+#: ../src/nautilus-terminal.c:426
+msgid "Open T_erminal"
+msgstr "Т_ерминалды ашу"
+
+#: ../src/nautilus-terminal.c:427
+msgid "Open a terminal"
+msgstr "Терминалды ашу"
+
+#: ../src/nautilus-terminal.c:442 ../src/nautilus-terminal.c:455
+msgid "Open in _Midnight Commander"
+msgstr "_Midnight Commander ішінде ашу"
+
+#: ../src/nautilus-terminal.c:444
+msgid ""
+"Open the currently selected folder in the terminal file manager Midnight Commander"
+msgstr ""
+"Ағымдағы уақытта таңдалған буманы Midnight Commander терминалдық файлдар "
+"басқарушысында ашу"
+
+#: ../src/nautilus-terminal.c:446 ../src/nautilus-terminal.c:456
+msgid "Open the currently open folder in the terminal file manager Midnight Commander"
+msgstr ""
+"Ағымдағы уақытта ашық буманы Midnight Commander терминалдық файлдар басқарушысында ашу"
+
+#: ../src/nautilus-terminal.c:452
+msgid "Open _Midnight Commander"
+msgstr "_Midnight Commander ашу"
+
+#: ../src/nautilus-terminal.c:453
+msgid "Open the terminal file manager Midnight Commander"
+msgstr "Midnight Commander терминалдық файлдар басқарушысын ашу"
+
+#: ../nautilus-terminal.schemas.in.h:1
+msgid "Whether opening a terminal on the desktop opens a terminal in the home directory"
+msgstr "Жұмыс үстелінде ашылған терминал бастапқы ретінде үй бумасын аша ма"
+
+#: ../nautilus-terminal.schemas.in.h:2
+msgid ""
+"If set to true, then opening a terminal on the desktop will open a terminal in the "
+"home directory. Otherwise, it will be opened in the desktop directory. Note that this "
+"key is irrelevant if the desktop directory is identical to the home directory."
+msgstr ""
+"Егер ақиқат етіп орнатылса, онда жұмыс үстелінде шерту арқылы ашылған терминал "
+"бастапқы бума ретінде үй бумасын ашады. Болмаса, жұмыс үстелі бумасы ашады. Егер "
+"жұмыс үстелі және үй бумалары бір бума болса, онда бұл кілттің әсері болмайды."
+
+#: ../nautilus-terminal.schemas.in.h:3
+msgid "Whether a Midnight Commander menu item should be displayed"
+msgstr "Midnight Commander мәзірі көрсетілуі тиіс пе"
+
+#: ../nautilus-terminal.schemas.in.h:4
+msgid ""
+"If set to true, and if the terminal file manager \"Midnight Commander\" is installed, "
+"then an \"Open in Midnight Commander\" menu item will be displayed in the context "
+"menu."
+msgstr ""
+"Егер ақиқат етіп орнатылса, және \"Midnight Commander\" терминалдық файлдар "
+"басқарушысы орнатылған болса, онда контекст мәзірінде \"Midnight Commander ішінде ашу"
+"\" көрсетілетін болады."
